@@ -1,4 +1,4 @@
-
+<<<<<<< HEAD
 # HW1
 ## Digital Ocean
 - Login into the your digital ocean account and go to the API tab to generate your API token. 
@@ -66,3 +66,14 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
 
 [Source : http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html]
 
+
+
+
+
+
+
+
+
+=======
+# hw1
+>>>>>>> 3d16aee9f0473cf68beb0d8e22844ae30186bab4
